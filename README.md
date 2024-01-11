@@ -37,7 +37,7 @@
 
 ### - Improved Patient Outcomes: Quick access to comprehensive patient data enables healthcare providers to make more informed decisions, leading to improved outcomes and personalized care.
 
-###- Enhanced Efficiency: Automated processes and streamlined communication contribute to increased efficiency in healthcare delivery, reducing administrative burdens and minimizing delays in patient care.
+### - Enhanced Efficiency: Automated processes and streamlined communication contribute to increased efficiency in healthcare delivery, reducing administrative burdens and minimizing delays in patient care.
 
 ### - Cost Savings: Health informatics can lead to cost savings by eliminating redundancies, reducing medical errors, and promoting preventive care, ultimately lowering overall healthcare expenditures.
 
