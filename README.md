@@ -14,9 +14,15 @@
 
 ![How-to-build-an-EHR-system-02-ezgif com-webp-to-jpg-converter](https://github.com/MohAli92/MohAli92/assets/148862863/d927e622-6e77-44c6-8c96-3ca0c3886d66)
 
+
+
+
 ## 2. Telemedicine:
 
 ### Health informatics has paved the way for telemedicine, allowing patients to consult with healthcare professionals remotely. This is especially crucial in situations where physical visits are challenging or impossible. Telemedicine facilitates real-time communication, enabling timely medical advice, monitoring of chronic conditions, and even remote diagnostics.
+
+![What-is-Telemedicine-1](https://github.com/MohAli92/MohAli92/assets/148862863/345270b2-5991-4033-bf51-f4dac8d42147)
+
 
 
 
@@ -24,11 +30,18 @@
 
 ### Health information exchange involves the sharing of electronic health information across different healthcare organizations. This interconnected system ensures that critical patient data is accessible to authorized healthcare providers, promoting coordinated care and reducing redundant tests or procedures.
 
+![benefits-health-information-exchange-blog](https://github.com/MohAli92/MohAli92/assets/148862863/96667069-8719-429b-b2ef-a8eabf9417d8)
+
+
 
 
 ## 4. Wearable Technology:
 
 ### The integration of health informatics extends beyond traditional healthcare settings with the advent of wearable technology. Devices like fitness trackers and smartwatches monitor various health metrics, providing individuals with real-time data about their physical activity, sleep patterns, and vital signs. This information empowers users to take proactive steps toward a healthier lifestyle.
+
+![wearable_technology_healthcare_blog_mobisoft_infotech](https://github.com/MohAli92/MohAli92/assets/148862863/024f8eed-9114-490c-af15-93f4056138b0)
+
+
 
 
 ## Benefits of Health Informatics:
