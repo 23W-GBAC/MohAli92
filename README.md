@@ -12,7 +12,7 @@
 
 ### One of the key components of health informatics is the implementation of electronic health records. EHRs digitize patients' medical histories, diagnoses, medications, and treatment plans, providing healthcare professionals with instant access to critical information. This not only streamlines communication among healthcare providers but also reduces the likelihood of errors in diagnosis and treatment.
 
-
+![How-to-build-an-EHR-system-02-ezgif com-webp-to-jpg-converter](https://github.com/MohAli92/MohAli92/assets/148862863/d927e622-6e77-44c6-8c96-3ca0c3886d66)
 
 ## 2. Telemedicine:
 
