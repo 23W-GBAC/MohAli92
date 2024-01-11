@@ -1,4 +1,4 @@
-#The Crucial Role of Health Informatics in Shaping a Healthier Future
+# The Crucial Role of Health Informatics in Shaping a Healthier Future
 
 ##Introduction:
 
