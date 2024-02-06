@@ -23,9 +23,7 @@ AppointmentReminder: This is a custom class representing an appointment reminder
 generate_random_datetime(): This function generates a random datetime within the next 7 days from the current datetime.
 
 
-<img width="479" alt="16" src="https://github.com/23W-GBAC/MohAli92/assets/148862863/f9ae8900-651c-4c25-a72b-77d551be9860">
-cont'd
-<img width="479" alt="16a" src="https://github.com/23W-GBAC/MohAli92/assets/148862863/50f7e8b7-14e9-40ab-9f66-cc296d614fc3">
+<img width="479" alt="16" src="https://github.com/23W-GBAC/MohAli92/assets/148862863/f9ae8900-651c-4c25-a72b-77d551be9860"> <img width="479" alt="16a" src="https://github.com/23W-GBAC/MohAli92/assets/148862863/50f7e8b7-14e9-40ab-9f66-cc296d614fc3">
 
 @app.route('/'): This is a decorator that associates the index function with the root URL of the Flask application.
 index(): This function retrieves a list of appointments, generates random datetimes for each appointment, creates AppointmentReminder objects, sends reminders, and stores them in a list.
