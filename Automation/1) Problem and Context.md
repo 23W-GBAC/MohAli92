@@ -33,3 +33,6 @@ Beyond providing personalized recommendations, the automation project serves as 
 
 
 ### [Possible Solutions](https://github.com/23W-GBAC/MohAli92/blob/main/Automation/2)%20Possible%20Solutions.md)
+
+
+(https://github.com/23W-GBAC/MohAli92/blob/main/Automation/2)%20Possible%20Solutions.md)
