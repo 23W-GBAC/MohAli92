@@ -1,9 +1,5 @@
 # The Crucial Role of Health Informatics in Shaping a Healthier Future
 
-
-![health-informatics-1200x628-1](https://github.com/23W-GBAC/MohAli92/assets/148862863/bd36f8e6-9156-46cb-9eae-5681d31f4e18)
-
-
 ## Introduction:
 
 #### In the rapidly advancing landscape of healthcare, the integration of technology has become pivotal in enhancing patient care, optimizing medical processes, and promoting overall well-being. Health informatics, the intersection of healthcare and information technology, plays a vital role in revolutionizing the healthcare sector. This article explores the importance of health informatics in our lives and its transformative impact on the way we manage, deliver, and receive healthcare services.
