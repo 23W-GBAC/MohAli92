@@ -53,4 +53,4 @@ The automation project aims to revolutionize the appointment reminder system by 
 
 
 
-### [Possible Solutions]((https://github.com/23W-GBAC/MohAli92/blob/main/Automation%201/2)%20Possible%20Solutions1.md)
+### [Possible Solutions](((https://github.com/23W-GBAC/MohAli92/blob/main/Automation%201/2)%20Possible%20Solutions1.md))
