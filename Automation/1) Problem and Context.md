@@ -31,8 +31,4 @@ Beyond providing personalized recommendations, the automation project serves as 
 ### In conclusion, the automation project addresses the challenge of determining personalized water intake needs based on age, height, weight, and sex. By automating the calculation process, the project empowers individuals to make informed decisions about hydration and promotes better health outcomes. Through its educational value and user-friendly interface, the project contributes to raising awareness about the significance of proper hydration in maintaining overall well-being.
 
 
-
-### [Possible Solutions](https://github.com/23W-GBAC/MohAli92/blob/main/Automation/2)%20Possible%20Solutions.md)
-
-
-(https://github.com/23W-GBAC/MohAli92/blob/main/Automation/2)%20Possible%20Solutions.md)
+[Possible Solutions](https://github.com/23W-GBAC/MohAli92/blob/main/Automation/2)%20Possible%20Solutions.md)
